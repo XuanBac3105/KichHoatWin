@@ -1,0 +1,46 @@
+Lưu ý
+Anh em nên tải thẳng bản Windows ISO từ nguồn sạch sẽ, chưa sửa đổi, sau đó kích hoạt bằng MAS key là ngon lành, đừng đi kiếm từ nguồn linh tinh rồi lại dính virus. Các nguồn tải bản Windows ISO sạch sẽ, chưa sửa đổi đó đây.
+Kích hoạt theo phương pháp sạch nhất hiện tại, bản quyền vĩnh viễn, ăn vào máy tính của anh em, có nghĩa là anh em chỉ cần làm việc này một lần duy nhất, sau này có cài lại Windows, bản quyền sẽ tự chạy về, anh em không cần làm gì nữa.
+Phương pháp này có thể dùng để kích hoạt hầu hết các bản Windows 10/11 (trừ bản N) từ bản Home/Pro/Enterprise/LTSC...
+Nếu muốn kích hoạt Windows 7 anh em có thể dùng key này: KHMQ2-C86FT-M3DDC-Q8JTC-DYPYV
+Hướng dẫn
+Bước 1.
+Mở PowerShell bằng quyền Administrator
+
+
+
+Bước 2.
+Xác nhận Yes
+
+
+
+Bước 3.
+Copy dòng này vào PowerShell rồi Enter: irm https://get.activated.win | iex
+
+
+
+Bước 4.
+Ấn 1 để kích hoạt Windows
+
+
+
+Bước 5.
+Nó ra dòng thông báo màu xanh này thì quá trình kích hoạt đã thành công, ấn một phím bất kỳ để thoát ra.
+
+
+
+Bước 6.
+Có thể vào phần System để kiểm tra kết quả:
+
+
+
+Như mọi khi, nếu thành công, anh em cho xin 01 còm, đẩy bài viết trên Nghiện Laptop lên cho anh em chưa biết. Cảm ơn anh em.
+
+Các lỗi thường gặp
+1. Could not Create SSL/TLS Secure Channel
+May be an image of text
+
+Có thể theo hướng dẫn này để fix: https://www.youtube.com/watch?v=c9BNIKUNkCU
+
+2. Chưa bật Windows Update
+Bạn nào tắt Windows Update chạy lệnh này sẽ báo lỗi. Bật Windows Update lên là được.
