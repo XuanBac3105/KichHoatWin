@@ -1,0 +1,20 @@
+Lưu ý
+Anh em nhớ là phải cài Office trước nhé, rồi mới dùng Ohook để thuốc, còn cài bản Office nào cũng được, Ohook nó ngoạm được từ 2013-2024/365. Anh em tải trực tiếp từ MS mà cài, đảm bảo sạch sẽ nhất, đừng đi kiếm ở nguồn linh tinh rồi dính bom mìn, virus... 
+Kích hoạt theo phương pháp an toàn nhất hiện tại, bản quyền vĩnh viễn. Tuy nhiên, anh em phải kích lại Office mỗi lần cài lại máy tính (MAS key dùng kích hoạt Windows anh em chỉ cần chạy 1 lần duy nhất trong đời).
+Hướng dẫn
+Bước 1: Mở PowerShell bằng quyền Administrator
+
+
+Bước 2: Xác nhận Yes
+
+
+Bước 3: Copy dòng này vào PowerShell rồi Enter: irm https://get.activated.win | iex
+
+
+Bước 4: Chọn 2 để kích hoạt Office (Ohook)
+
+
+Bước 5: Chọn 1 để xác nhận kích hoạt theo phương pháp Ohook
+
+
+Bước 6: Nó ra dòng thông báo màu xanh này thì quá trình kích hoạt đã thành công, ấn một phím bất kỳ để thoát ra.
